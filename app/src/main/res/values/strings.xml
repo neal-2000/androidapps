@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="enter_name">\"Enter your name\"</string>
+    <string name="todolist">enter your list</string>
+</resources>
